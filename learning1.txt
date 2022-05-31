@@ -1,0 +1,4 @@
+my first file of this project
+we can get content of this file in terminal directly by using command cat Learning1.txt
+
+we can use git init for making an empty git repository 
